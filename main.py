@@ -1,7 +1,5 @@
-import random
 import requests
 import datetime
-import json
 from fastapi import FastAPI, Request
 from datetime import datetime
 
